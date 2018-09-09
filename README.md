@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AlignedReID
 Official Reproduce AlignedReID: Surpassing Human-Level Performance in Person Re-Identification using Pytorch.
 
@@ -56,3 +57,6 @@ python train_alignedreid.py -d market1501 -a resnet50 --evaluate --resume saved-
 ```
 
 **Note:** (--reranking) means whether you use 'Re-ranking with k-reciprocal Encoding (CVPR2017)' to boost the performance.
+=======
+# AlignedReID
+>>>>>>> 4cca2a06c5b7b5ad48a237ffc8fb0c6cc9326509
